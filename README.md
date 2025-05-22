@@ -60,7 +60,7 @@
 
 🔗 [Portfolio Website](https://anoohya10.github.io/portfolio/)  
 📬 Email:(anoohyamateti10@gmail.com)  
-💼 [LinkedIn](#) (https://www.linkedin.com/in/anoohya-mateti/) 
+💼 [LinkedIn] (https://www.linkedin.com/in/anoohya-mateti/) 
 
 ---
 
